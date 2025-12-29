@@ -1,0 +1,11 @@
+faiss-cpu
+transformers==4.38.0
+Pillow
+pypdf==3.17.0
+jq
+langchain==0.2.10
+streamlit
+botocore
+boto3
+awscli
+
